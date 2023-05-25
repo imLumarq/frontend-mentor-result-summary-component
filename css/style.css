@@ -46,14 +46,14 @@
 
 html {
     color-scheme: light only;
+    font-family: var(--font-family);
+    font-size: var(--font-size);
 }
 
 html,
 body,
 main {
     background-color: hsl(var(--pale-blue));
-    font-family: var(--font-family);
-    font-size: var(--font-size);
     min-height: 100vh;
 }
 
@@ -236,7 +236,7 @@ button:active {
     }
 }
 
-/*1440*/
+/*1440px*/
 @media (min-width: 90em) {
     .wrapper {
         height: 482px;
