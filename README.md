@@ -23,18 +23,18 @@ Users should be able to:
 
 ### Screenshot
 
-[mobile 375x809](./screenshots/mobile-375px.png)
-[desktop not active 1440x1080](./screenshots/desktop-1440px.png)
-[desktop active 1440x1080](./screenshots/desktop-1440px-active.png)
-[iphone-xr](./screenshots/iphone-xr.png)
-[ipad-air](./screenshots/ipad-air.png)
-[samsung galaxy fold part one](./screenshots/galaxy-fold-part-one.png)
-[samsung galaxy fold part two](./screenshots/galaxy-fold-part-two.png)
-[nest hub max](./screenshots/nesthub-max.png)
+![mobile-375x809](./screenshots/mobile-375px.png)
+![desktop-not-active-1440x1080](./screenshots/desktop-1440px.png)
+![desktop-active-1440x1080](./screenshots/desktop-1440px-active.png)
+![iphone-xr](./screenshots/iphone-xr.png)
+![ipad-air](./screenshots/ipad-air.png)
+![samsung-galaxy-fold-part-one](./screenshots/galaxy-fold-part-one.png)
+![samsung-galaxy-fold-part-two](./screenshots/galaxy-fold-part-two.png)
+![nest-hub-max](./screenshots/nesthub-max.png)
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/result-summary-component-uWK7kDuNNH)
-- Live Site URL: [](https://imlumarq.github.io/frontend-mentor-result-summary-component)
-- Github Repository: [](https://github.com/imLumarq/frontend-mentor-result-summary-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/result-summary-component-uWK7kDuNNH]
+- Live Site URL: [https://imlumarq.github.io/frontend-mentor-result-summary-component]
+- Github Repository: [https://github.com/imLumarq/frontend-mentor-result-summary-component]
 
 ## My process
 
