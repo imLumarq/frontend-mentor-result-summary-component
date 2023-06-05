@@ -32,6 +32,8 @@ Users should be able to:
 ![samsung-galaxy-fold-part-two](./screenshots/galaxy-fold-part-two.png)
 ![nest-hub-max](./screenshots/nesthub-max.png)
 
+### Links
+
 - Solution URL: [https://www.frontendmentor.io/solutions/result-summary-component-uWK7kDuNNH]
 - Live Site URL: [https://imlumarq.github.io/frontend-mentor-result-summary-component]
 - Github Repository: [https://github.com/imLumarq/frontend-mentor-result-summary-component]
